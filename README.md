@@ -2,7 +2,7 @@
 Working through Learn Python the Hard Way
 https://learnpythonthehardway.org/book/
 
-# at the top of a script to use UTF-8 instead of ASCII
+at the top of a script to use UTF-8 instead of ASCII
 # -*- coding: utf-8 -*-
 
 # for comments, either at the beginning of the line or after a statement
